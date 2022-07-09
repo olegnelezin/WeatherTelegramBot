@@ -1,7 +1,7 @@
 # WeatherTelegramBot
 Телеграм бот, который способен показать информацию о погоде из более 200000 городов мира.
 
-Используется Telegram Bot Java Library(github.com/rubenlagus/TelegramBots), weather api(https://openweathermap.org/api).
+Используется Telegram Bot Java Library(htttps://github.com/rubenlagus/TelegramBots), weather api(https://openweathermap.org/api).
 
 При разработке использовался паттерн "Команда".
 
